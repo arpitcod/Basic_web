@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+#link{
+
+    text-decoration: none;
+    font-weight: bold;
+    color: azure;
+    background:green;
+    padding: 15px 50px;
+    border-radius: 5px;
+    position: absolute;
+    top: 40%;
+    font-size:20px ;
+ 
+
+   
+
+     /* margin-top: 50%; */
+    
+
+}
+#link:hover{
+    background-color: rgb(4, 60, 2);
+    color: azure;
+    padding: 15px 80px;
+    transition: 0.2s ease-in-out;
+    
+   
+
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+             /* sssssssssssseeeeeeeeeeeecccoooonnnnnnnddddd pppppaaaaaaaggggeeee */
+             #form_h1{
+                 text-align: center;
+                 margin-top: 20px;
+             }
+             #h1_edit{
+                text-decoration: none;
+                font-weight: bold;
+                color:ghostwhite;
+                background:rgb(0, 128, 81);
+                padding: 15px 50px;
+                border-radius: 5px;
+                position: absolute;
+                top: 40%;
+                font-size:20px ;
+             }
+
+             
+                
+    
+             #h1_edit:hover{
+                background-color: rgb(4, 60, 2);
+                color: azure;
+                 
+             }
+            #h2_edit{
+                text-decoration: none;
+                font-weight: bold;
+                color:ghostwhite;
+                background:rgb(0, 128, 81);
+                padding: 15px 50px;
+                border-radius: 5px;
+                position: absolute;
+                top: 50%;
+                font-size:20px ;
+
+            }
+            #h2_edit:hover{
+                background-color: rgb(4, 60, 2);
+                color: azure;
+
+            }
